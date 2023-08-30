@@ -19,7 +19,7 @@ This repository contains my personal portfolio website built using Bootstrap 5. 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/kasihwebdev/Simple-Portfolio-Bootstrap5.git
    ```
 
 2. Open the `index.html` file to view the website locally.
@@ -40,4 +40,4 @@ I do not accept contributions to this project as it is my personal portfolio. Ho
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-`https://github.com/kasihwebdev/repo.git`
+`https://github.com/kasihwebdev/Simple-Portfolio-Bootstrap5.git`
