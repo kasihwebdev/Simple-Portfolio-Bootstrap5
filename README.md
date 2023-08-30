@@ -2,7 +2,7 @@
 
 # Bootstrap 5 Portfolio
 
-![Portfolio Preview](img/ssweb.jpg)
+![Portfolio Preview](img/ssweb.png)
 
 This repository contains my personal portfolio website built using Bootstrap 5. The project aims to showcase my skills and recent work as a Front-End Developer and Back-End Developer.
 
